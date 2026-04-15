@@ -11,8 +11,7 @@ Basic math.
 
 > **Note on `ref/`:** Reference documents (PDFs, DOCX) are not included in the repository for
 > copyright reasons. Download links are available in `ref/docs.txt`. Descriptions and detailed
-> tables of contents are in `ref/index.md`. When this guide says "Already in `ref/`", it means
-> the document is indexed and its download link is listed — you need to download it yourself.
+> tables of contents are in `ref/index.md`.
 
 ---
 
@@ -36,9 +35,9 @@ These materials are the starting point. Study them *before* any specific phase.
 
 | # | Material | Format | Cost | Notes |
 |---|----------|--------|------|-------|
-| P1 | **NASA CubeSat 101** | PDF, 86p | [FREE] | Start here. Covers the complete lifecycle of a CubeSat, from concept through operations. Accessible language, process-oriented. Already in `ref/`. |
+| P1 | **NASA CubeSat 101** | PDF, 86p | [FREE] | Start here. Covers the complete lifecycle of a CubeSat, from concept through operations. Accessible language, process-oriented. Indexed in `ref/index.md`. |
 | | | | | https://www.nasa.gov/wp-content/uploads/2017/03/nasa_csli_cubesat_101_508.pdf |
-| P2 | **CubeSat Design Specification (CDS) Rev 14.1** | PDF, ~40p | [FREE] | The de facto standard for CubeSats. Defines physical, electrical and operational specifications for 1U through 12U. Mandatory reading to understand form factor constraints. Already in `ref/`. |
+| P2 | **CubeSat Design Specification (CDS) Rev 14.1** | PDF, ~40p | [FREE] | The de facto standard for CubeSats. Defines physical, electrical and operational specifications for 1U through 12U. Mandatory reading to understand form factor constraints. Indexed in `ref/index.md`. |
 | | | | | https://www.cubesat.org/cubesatinfo |
 | P3 | **A Guide to CubeSat Mission and Bus Design** (Univ. Hawaii) | Online textbook (OER) | [FREE] | Funded by NASA Artemis program. Covers all subsystems with hands-on labs and video lectures. 12 chapters including orbital mechanics, ADCS, communications, thermal and software. Nothing else free comes close for CubeSat beginners. |
 | | | | | https://pressbooks-dev.oer.hawaii.edu/epet302/ |
@@ -109,13 +108,13 @@ safety goals.
 | 0.2 | **CDS Rev 14.1** [P2] | PDF | [FREE] | Sections 1-2: understand the mechanical and electrical constraints of the form factor that bound the mission. |
 | 0.3 | **NASA SE Handbook (SP-2016-6105 Rev2)** | PDF, ~350p | [FREE] | [ESSENTIAL] NASA's primary SE reference. For Phase 0: chapters 1-4 (lifecycle, SE engine, technical processes). |
 | | | | | https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf |
-| 0.4 | **ECSS-E-ST-10C Rev.1 — Annex B (MDD DRD)** | DOCX | [FREE] | [ESSENTIAL] Defines the mandatory structure of the MDD. Already in `ref/`. Read BEFORE writing the MDD. |
-| 0.5 | **ECSS-E-ST-10-06C — Technical Requirements Specification** | PDF | [FREE] | [ESSENTIAL] Defines how to structure technical specifications. Already in `ref/`. Read BEFORE writing the Preliminary TS. |
-| 0.6 | **ECSS Training Course (slides)** | PDF | [FREE] | [RECOMMENDED] Already in `ref/` as `ECSS-E-10-SE-Training-Course-2021.pdf`. Overview of ECSS systems engineering processes. |
+| 0.4 | **ECSS-E-ST-10C Rev.1 — Annex B (MDD DRD)** | DOCX | [FREE] | [ESSENTIAL] Defines the mandatory structure of the MDD. Indexed in `ref/index.md`. Read BEFORE writing the MDD. |
+| 0.5 | **ECSS-E-ST-10-06C — Technical Requirements Specification** | PDF | [FREE] | [ESSENTIAL] Defines how to structure technical specifications. Indexed in `ref/index.md`. Read BEFORE writing the Preliminary TS. |
+| 0.6 | **ECSS Training Course (slides)** | PDF | [FREE] | [RECOMMENDED] Indexed in `ref/index.md` as `ECSS-E-10-SE-Training-Course-2021.pdf`. Overview of ECSS systems engineering processes. |
 | 0.7 | **Hawaii OER — Chapters 1-3** [P3] | Web | [FREE] | [ESSENTIAL] Introduction to the space environment, mission concepts and basic orbital mechanics. |
-| 0.8 | **NASA State-of-the-Art Small Spacecraft Technology (2024)** | PDF, ~420p | [FREE] | [REFERENCE] Already in `ref/` as `soa-2024.pdf`. Catalogs current technology for every subsystem with specs and TRL. Use as reference for initial trade studies. |
+| 0.8 | **NASA State-of-the-Art Small Spacecraft Technology (2024)** | PDF, ~420p | [FREE] | [REFERENCE] Indexed in `ref/index.md` as `soa-2024.pdf`. Catalogs current technology for every subsystem with specs and TRL. Use as reference for initial trade studies. |
 | | | | | https://www.nasa.gov/smallsat-institute/sst-soa/ |
-| 0.9 | **ECSS-M-ST-10C Rev.1 — Project Planning** | DOC | [FREE] | [REFERENCE] Defines project phases and review gates. Already in `ref/`. Section 4.4.3.2 (Phase 0). |
+| 0.9 | **ECSS-M-ST-10C Rev.1 — Project Planning** | DOC | [FREE] | [REFERENCE] Defines project phases and review gates. Indexed in `ref/index.md`. Section 4.4.3.2 (Phase 0). |
 | 0.10 | **NASA CubeSat Lessons Learned (2022)** | PDF | [FREE] | [RECOMMENDED] Compilation of real lessons learned from CSLI missions. Valuable for avoiding common mistakes from the start. |
 | | | | | https://www.nasa.gov/wp-content/uploads/2018/01/cubesat_information_and_lessons_learned-2022.pdf |
 
@@ -200,7 +199,7 @@ Disposal Plan.
 | | | | | https://ecss.nl/standard/ecss-e-st-40c-software-general-requirements/ |
 | B.2 | **ECSS-Q-ST-80C Rev.2 — Software Product Assurance** | PDF, 132p | [FREE] | [ESSENTIAL] Complements E-ST-40. For Phase B: Annex D (tailoring by criticality — category D for Atlas), ch. 6 (process assurance). Already indexed in `ref/index.md`. |
 | B.3 | **ECSS-E-ST-40C Annexes B, C, D, I** | Standard | [FREE] | [ESSENTIAL] DRDs for: SSS (Annex B), IRD (Annex C), SRS (Annex D), SVerP (Annex I). Read BEFORE writing each artifact. |
-| B.4 | **ECSS-M-ST-10-01C — Conduct of Reviews** | PDF | [FREE] | [RECOMMENDED] How to conduct the SRR and PDR reviews. Already in `ref/`. |
+| B.4 | **ECSS-M-ST-10-01C — Conduct of Reviews** | PDF | [FREE] | [RECOMMENDED] How to conduct the SRR and PDR reviews. Indexed in `ref/index.md`. |
 
 ### Materials — Flight Software and Architecture
 
