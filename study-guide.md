@@ -1,4 +1,4 @@
-# Atlas — Phase-by-Phase Study Guide
+# Phase-by-Phase Study Guide
 
 This document organizes progressive study materials for each ECSS phase of the Atlas project.
 The premise: study what is needed *for the current phase*, not everything at once. Knowledge

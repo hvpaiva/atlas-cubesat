@@ -1,4 +1,4 @@
-# Atlas — Project Overview
+# Project Overview
 
 ## What Atlas is
 
