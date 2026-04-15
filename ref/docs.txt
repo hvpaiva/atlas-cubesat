@@ -1,0 +1,62 @@
+# Download links for ref/ documents
+# Documents are not included in the repository for copyright reasons.
+# See ref/index.md for detailed descriptions and tables of contents.
+#
+# ECSS standards require free registration at https://ecss.nl/
+
+nasa_csli_cubesat_101_508.pdf
+  https://www.nasa.gov/wp-content/uploads/2017/03/nasa_csli_cubesat_101_508.pdf
+
+CDS+REV14_1+2022-02-09.pdf
+  https://www.cubesat.org/s/CDS-REV14_1-2022-02-09.pdf
+
+soa-2024.pdf
+  https://www.nasa.gov/wp-content/uploads/2025/02/soa-2024.pdf
+
+CACs+for+CIFP+March+2020.pdf
+  https://www.cubesat.org/s/CACs-for-CIFP-March-2020.pdf
+
+ECSS-E-ST-40C-Rev.1(30April2025).pdf
+  https://ecss.nl/standard/ecss-e-st-40c-rev-1-software-30-april-2025/
+
+ECSS-Q-ST-80C-Rev.2(30April2025).pdf
+  https://ecss.nl/standard/ecss-q-st-80c-rev-2-software-product-assurance-30-april-2025/
+
+ECSS-E-ST-10C-Rev1-AnnexB-MDD-DRD.docx
+  https://ecss.nl/standard/ecss-e-st-10c-rev-1-system-engineering-general-requirements-15-february-2017/
+
+ECSS-E-ST-10-06C-Technical-Requirements-Spec-2009.pdf
+  https://ecss.nl/standard/ecss-e-st-10-06c-technical-requirements-specification/
+
+ECSS-M-ST-10C-Rev1-Project-Planning-2009.doc
+  https://ecss.nl/standard/ecss-m-st-10c-rev-1-project-planning-and-implementation/
+
+ECSS-M-ST-10-01C-Reviews-2008.pdf
+  https://ecss.nl/standard/ecss-m-st-10-01c-organization-and-conduct-of-reviews/
+
+ECSS-E-10-SE-Training-Course-2021.pdf
+  https://ecss.nl/training-material/ecss-training-material-downloads
+
+ESA-HW-Project-Phases-Cripps-2018.pdf
+  https://www.space.irfu.se/seminars/20180523-Cripps-HW_Project.pdf
+
+ECSS-E-ST-10-02C-Rev1-Verification-2018.pdf
+  https://ecss.nl/standard/ecss-e-st-10-02c-rev-1-verification-1-february-2018/
+
+ECSS-E-ST-10C-Rev1(15February2017).pdf
+  https://ecss.nl/standard/ecss-e-st-10c-rev-1-system-engineering-general-requirements-15-february-2017/
+
+ECSS-E-ST-10C-Rev1-AnnexD-SEP-DRD.docx
+  https://ecss.nl/standard/ecss-e-st-10c-rev-1-system-engineering-general-requirements-15-february-2017/
+
+ESA-SRE-PA-2011-097-Margin-Philosophy-Rev3.pdf
+  https://sci.esa.int/documents/34375/36249/1567260131067-Margin_philosophy_for_science_assessment_studies_1.3.pdf
+
+ECSS-E-HB-10-02A-Verification-Guidelines-2010.pdf
+  https://ecss.nl/hbstms/ecss-e-10-02a-verification-guidelines/
+
+ECSS-E-TM-10-21A-System-Modelling-Simulation-2010.pdf
+  https://ecss.nl/hbstms/ecss-e-tm-10-21a-system-modelling-and-simulation/
+
+ECSS-S-ST-00-01C-Rev1-Glossary-2023.pdf
+  https://ecss.nl/standard/ecss-s-st-00-01c-rev-1-glossary-of-terms-11-october-2023/

@@ -1,0 +1,41 @@
+# Flight Software Frameworks
+NASA cFS (core Flight System): https://github.com/nasa/cFS
+NASA F Prime (F'): https://github.com/nasa/fprime
+sat-rs (Rust, IRS Stuttgart): https://github.com/us-irs/sat-rs
+sat-rs (upstream): https://egit.irs.uni-stuttgart.de/rust/sat-rs
+FSFW (C++, parent of sat-rs): https://egit.irs.uni-stuttgart.de/fsfw/fsfw
+KubOS (historical, discontinued): https://github.com/kubos/kubos
+CubedOS (SPARK/Ada): https://github.com/cubesatlab/cubedos
+Adamant (Ada/SPARK, LASP): https://github.com/lasp/adamant
+NanoSat MO Framework (ESA, Java): https://github.com/esa/nanosat-mo-framework
+
+# CubeSat Hardware/Platforms
+PyCubed: https://github.com/pycubed
+COTS Star Tracker (NASA): https://github.com/nasa/COTS-Star-Tracker
+
+# Rust Embedded / Execution Models
+Embassy (async executor): https://github.com/embassy-rs/embassy
+Hubris (microkernel, Oxide): https://github.com/oxidecomputer/hubris
+FreeRTOS-rust bindings: https://github.com/lobaro/FreeRTOS-rust
+embedded-alloc: https://github.com/rust-embedded/embedded-alloc
+embedded-test (probe-rs): https://github.com/probe-rs/embedded-test
+assert-no-alloc: https://github.com/Windfisch/rust-assert-no-alloc
+
+# Rust Space/Astrodynamics
+sat-rs spacepackets (CCSDS/ECSS): https://github.com/us-irs/sat-rs (crate spacepackets)
+va416xx-rs (Vorago rad-hard MCU HAL): https://github.com/us-irs/va416xx-rs
+ops-sat-rs (OPS-SAT experiment): https://egit.irs.uni-stuttgart.de/rust/ops-sat-rs
+satkit (SGP4, IGRF, propagation): https://github.com/ssmichael1/satkit
+nyx-space (high-fidelity astrodynamics): https://github.com/nyx-space/nyx
+sgp4 (no_std propagator): https://github.com/neuromorphicsystems/sgp4
+lox-space (ESA-funded, pre-alpha): https://github.com/lox-space/lox
+AeroRust awesome-space: https://github.com/AeroRust/awesome-space
+
+# Simulation
+42 (NASA attitude/orbit sim): https://github.com/ericstoneking/42
+Basilisk (CU Boulder sim framework): https://github.com/AVSLab/basilisk
+TrickCFS (NASA cFS simulation): https://github.com/nasa/TrickCFS
+Vallado (reference algorithms): https://github.com/Spacecraft-Code/Vallado
+
+# Safety-Critical Rust
+Safety-Critical Rust Coding Guidelines: https://github.com/rustfoundation/safety-critical-rust-coding-guidelines
